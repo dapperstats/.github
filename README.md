@@ -1,2 +1,1 @@
-# .github
-DAPPER Stats home repo
+# DAPPER Stats
